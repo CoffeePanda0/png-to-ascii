@@ -1,6 +1,4 @@
 <?php
-$width;
-$height;
 
 function chars($brightness) { // prints the char
 	$brightness = $brightness * 2.25;
